@@ -1,0 +1,24 @@
+{
+  "name": "devbridge-new-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joksas-ai/Devbridge-new-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joksas-ai/Devbridge-new-repo/issues"
+  },
+  "homepage": "https://github.com/Joksas-ai/Devbridge-new-repo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.13.1",
+    "playwright-cli": "^0.180.0"
+  }
+}
